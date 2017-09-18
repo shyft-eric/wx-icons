@@ -6,4 +6,4 @@ A simple package of weather icons in svg format using material specifications
 Severe Turbulence: 
 ![alt text][logo]
 
-[logo]: https://github.com/shyft-solutions/wx-icons/blob/master/turbulence/05-severe.svg "Severe Turbulence"
+[logo]: https://github.com/shyft-solutions/wx-icons/blob/master/turbulence/05-severe.svg "Severe Turbulence" | width=100 height=100
